@@ -108,7 +108,7 @@
 )
 * [github:Algorithm_Interview_Notes-Chinese(star:23.8k)](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) (2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 )
-* [github:《编程之法：面试和算法心得》(star:17.3k)](https://github.com/julycoding/The-Art-Of-Programming-By-July) (本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+* [github:《编程之法：面试和算法心得》(star:17.3k)](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 )
 * [github:关于Python的面试题(star:10k)](https://github.com/taizilongxu/interview_python)
 * [github:iOS面试题集锦 iOSInterviewQuestions (star:7.7k)](https://github.com/ChenYilong/iOSInterviewQuestions)
