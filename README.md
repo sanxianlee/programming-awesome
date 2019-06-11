@@ -732,7 +732,7 @@
 -----------------
 
 ### Dart
-* [Yet Another Scheme Tutorial Scheme入门教程](http://deathking.github.io/yast-cn/)
-* [Scheme语言简明教程](http://songjinghe.github.io/TYS-zh-translation/)
+* [Dart 官方中文版](http://www.dartdoc.cn/)
+* [DartPad-Dart在线运行板](https://dartpad.cn/)
 
 -----------------
