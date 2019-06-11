@@ -106,6 +106,10 @@
 * [github:Java学习+面试指南(star:44k)](https://github.com/Snailclimb/JavaGuide) (一份涵盖大部分Java程序员所需要掌握的核心知识。)
 * [github:CS-Notes(star:66k)](https://github.com/CyC2018/CS-Notes) (技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 https://cyc2018.github.io/CS-Notes
 )
+* [github:Algorithm_Interview_Notes-Chinese(star:24k)](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) (2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+)
+* [github:编程之法：面试和算法心得(star:44k)](https://github.com/julycoding/The-Art-Of-Programming-By-July) (本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+)
 
 ----------------------------------
 
