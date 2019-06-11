@@ -163,6 +163,12 @@
 
 -----------------------------------
 
+### WebPack
+
+* [webpack 中文文档 | webpack 中文网](https://www.webpackjs.com/)
+
+-----------------------------------
+
 ### NoSQL
 
 * [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
