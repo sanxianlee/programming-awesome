@@ -103,7 +103,9 @@
 ----------------------------------
 
 ### 面试集锦
-* [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide) (一份涵盖大部分Java程序员所需要掌握的核心知识。)
+* [github:Java学习+面试指南(star:44k)](https://github.com/Snailclimb/JavaGuide) (一份涵盖大部分Java程序员所需要掌握的核心知识。)
+* [github:CS-Notes(star:66k)](https://github.com/CyC2018/CS-Notes) (技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 https://cyc2018.github.io/CS-Notes
+)
 
 ----------------------------------
 
