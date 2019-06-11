@@ -102,6 +102,11 @@
 
 ----------------------------------
 
+### 面试集锦
+* [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide) (一份涵盖大部分Java程序员所需要掌握的核心知识。)
+
+----------------------------------
+
 ### 函数式编程
 
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
