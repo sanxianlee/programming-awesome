@@ -166,6 +166,7 @@
 ### WebPack
 
 * [webpack 中文文档 | webpack 中文网](https://www.webpackjs.com/)
+* [阮一峰 webpack教程demo](https://github.com/ruanyf/webpack-demos)
 
 -----------------------------------
 
