@@ -167,6 +167,8 @@
 
 * [webpack 中文文档 | webpack 中文网](https://www.webpackjs.com/)
 * [阮一峰 webpack教程demo](https://github.com/ruanyf/webpack-demos)
+* [webpack详解(腾讯IVWEB团队)](https://juejin.im/post/5aa3d2056fb9a028c36868aa)
+* [Webpack3.X版 成神之路 (技术胖)](http://jspang.com/posts/2017/09/16/webpack3.html)
 
 -----------------------------------
 
