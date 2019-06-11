@@ -158,6 +158,7 @@
 * [十步完全理解SQL](https://github.com/LippiOuYang/practical-computer-skills/blob/master/src/sql.md)
 * [MySQL索引背后的数据结构及算法原理](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
 * [21分钟MySQL入门教程](http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html)
+* [MySQL索引原理及慢查询优化](https://tech.meituan.com/2014/06/30/mysql-index.html)
 
 -----------------------------------
 
