@@ -1,0 +1,131 @@
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+<img align="right" height="150" src="./image/码农.gif">
+
+# :memo:BAT_interviews
+
+[![GitHub stars](https://img.shields.io/github/stars/lengyue1024/BAT_interviews.svg)](https://github.com/lengyue1024/BAT_interviews/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/lengyue1024/BAT_interviews.svg)](https://github.com/lengyue1024/BAT_interviews/network/members)
+[![Platform](https://img.shields.io/badge/platform-markdown-red.svg)](https://guides.github.com/features/mastering-markdown/)
+![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
+[![contributions](https://img.shields.io/badge/contributions-welcome-green.svg)](https://github.com/lengyue1024/BAT_interviews/pulls)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/lengyue1024/BAT_interviews.svg)](http://isitmaintained.com/project/lengyue1024/BAT_interviews "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/lengyue1024/BAT_interviews.svg)](http://isitmaintained.com/project/lengyue1024/BAT_interviews "Percentage of issues still open")
+[![License](https://wangchujiang.com/sb/license/mit.svg)](https://github.com/lengyue1024/BAT_interviews/blob/master/LICENSE)
+
+>**:rocket:分享最新BAT面试题(包含机器学习,Linux,PHP,大数据,Python,Java,前端等),持续更新ing...**
+
+## :email:Contact | 联系我:  
+
+[![facebook](https://wangchujiang.com/sb/ico/facebook.svg)](https://www.facebook.com/ibingyu)
+[![qq](https://wangchujiang.com/sb/ico/qq.svg)](http://wpa.qq.com/msgrd?v=3&uin=3433951572&site=qq&menu=yes)
+[![qq-group](https://wangchujiang.com/sb/ico/group.svg)](https://jq.qq.com/?_wv=1027&k=5MttUBq)
+[![blog](https://wangchujiang.com/sb/ico/linux.svg)](https://www.bingyublog.com) [![email](https://wangchujiang.com/sb/ico/email.svg)](mailto:xzhxpx@qq.com)
+[![weibo](https://wangchujiang.com/sb/ico/weibo.svg)](https://weibo.com/u/6083310945)
+[![gitter](https://wangchujiang.com/sb/ico/gitter.svg)](https://gitter.im/bingyux/Lobby)
+
+>:loudspeaker: 这是一个我个人在网上收集的BAT面试题集合(也许并不仅仅限于BAT)，仅供大家学习。因为只有我一个人在收集、整理，所以哪里有不足请转到[Issues](https://github.com/lengyue1024/BAT_interviews/issues)反馈给我，我会及时调整，谢谢！
+
+---
+
+## :file_folder:Table of Contents | 目录
+
+### :wind_chime:Structure of Contents | 目录结构
+```
+.
+├─ Python面试题及答案.md
+├─ Java面试题及答案.md
+├─ Linux面试题及答案.md
+├─ PHP面试题及答案.md
+├─ 前端面试题及答案.md
+├─ 大数据面试题及答案.md
+├─ MySQL面试题及答案.md
+├─ Spring面试提及答案.md
+├─ Redis面试题及答案.md
+├─ 机器学习.md
+├─ 小米网运维工程师笔试真题.md
+├─ 网易Linux运维工程师.md
+└─ 阿里巴巴校招笔试试卷
+```
+
+### Python面试题及答案
+- [Python面试题及答案](Python面试题及答案.md)
+
+### Java面试题及答案
+- [Java面试题及答案](Java面试题及答案.md)
+
+### Linux面试题及答案
+- [Linux面试题及答案](Linux面试题及答案.md)
+
+### PHP面试题及答案
+- [PHP面试题及答案](PHP面试题及答案.md)
+
+### 前端面试题及答案
+- [前端面试题及答案](前端面试题及答案.md)
+
+### 大数据面试题及答案
+- [大数据面试题及答案](大数据面试题及答案.md)
+
+### MySQL面试题及答案
+- [MySQL面试题及答案](MySQL面试题及答案.md)
+
+### Spring面试题及答案
+- [Spring面试题及答案](Spring面试题及答案.md)
+
+### Redis面试题及答案
+- [Redis面试题及答案](Redis面试题及答案.md)
+
+### 机器学习
+- [机器学习](机器学习.md)
+
+### 小米网络运维工程师面试真题
+- [小米网络运维工程师笔试真题](小米网络运维工程师笔试真题.md)
+
+### 网易Linux运维工程师面试题
+- [网易Linux运维工程师面试题](网易Linux运维工程师面试题.md)
+
+### 阿里巴巴校招笔试试卷
+- [阿里巴巴校招笔试试卷](阿里巴巴校招笔试试卷)
+
+---
+
+## :art:ChangeLog | 更新日志
+
+按照技术的使用频率上下排序，目录结构/表格
+
+1. 2019/3/9 ：重置README文件
+
+
+## :pushpin:Contributing | 贡献
+### 🐱‍🏍Contributor | 贡献者
+
+
+
+<table>
+  <td><center><a href="https://sourcerer.io/lengyue1024"><img src="https://avatars0.githubusercontent.com/u/36565884?s=400&v=4" width="100px" height="100px" alt="Contributor" /></a></center></td>
+  <td><center><a href="https://github.com/lengyue1024/BAT_interviews/graphs/contributors"><img src="https://ghchart.rshah.org/409ba5/lengyue1024" alt="bingyu's Github Chart" /></a></center></td>
+</table>
+
+### :pencil2:How to contribute | 贡献规范
+目前来讲，仍然有很多地方需要完善，希望有经验并心怀开源精神的同学前来帮我共同完善本项目,并且欢迎提交[PR](https://github.com/lengyue1024/BAT_interviews/pulls)和[issue](https://github.com/lengyue1024/BAT_interviews/issues/new)。
+
+在你着手准备给这个项目提交一些新内容前，我建议你务必阅读这份「[中文技术文档写作规范](https://github.com/ruanyf/document-style-guide)」和 「[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)」。
+
+## :lollipop:Sponsoring | 赞助
+
+
+<table>
+<tr>
+<td align="center"><img src="https://ws1.sinaimg.cn/large/006DGX4tly1g04y26vkykj305k05kjt3.jpg" /></a></td>
+<td align="center"><img src="https://ws1.sinaimg.cn/large/006DGX4tly1g0oqmwuikzj305k05kmyo.jpg" /></a></td>
+</tr>
+<tr>
+<td align="center"><strong>微信</strong></td>
+<td align="center"><strong>支付宝</strong></td>
+</tr>
+</table>
+
+## :bookmark:License | 许可
+>⚖ 本作品采用『[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)』进行许可。  
+⚖ 本文档采用『[创用 CC 姓名标识-非商业性-相同方式分享 4.0 国际 授权条款](http://creativecommons.org/licenses/by-nc-sa/4.0/)』进行授权。
+
+<a href="#"><img align="right" src="image/rocket.svg" title="回到顶部" border="0"></a>
